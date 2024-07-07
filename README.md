@@ -9,6 +9,7 @@ Projects Included
    - Technologies: Python, pandas, scikit-learn, matplotlib, numpy.
    - Notebook: [Link to Notebook](https://github.com/7mama7/MyProjects/blob/main/Diabetes.ipynb)
    - Dataset: [Here](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+   
 ## Installation and Usage
 
 ### Installation
@@ -16,7 +17,9 @@ Projects Included
 To run these projects locally, you need to have Python installed. Clone the repository and install the required libraries using pip:
 
 git clone https://github.com/your-username/data-science-portfolio.git
+
 cd data-science-portfolio
+
 pip install -r requirements.txt
 ### Usage
 

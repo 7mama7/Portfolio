@@ -7,8 +7,8 @@ Projects Included
 1. Project 1: Predicting of Diabetes Patients
    - Description: Predicting whether the patient has diabetes or not.
    - Technologies: Python, pandas, scikit-learn, matplotlib, numpy.
-   - Notebook: 
-
+   - Notebook:
+   - Dataset: Here<a>https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database</a>
 ## Installation and Usage
 
 ### Installation

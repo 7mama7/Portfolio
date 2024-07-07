@@ -1,4 +1,4 @@
-**Data Science Portfolio**
+## Data Science Portfolio
 
 Welcome to my Data Science portfolio repository! This repository showcases various projects and analyses I've worked on related to Data Science, Machine Learning, and Data Analysis. Each project includes detailed Jupyter notebooks with explanations, code, and visualizations.
 

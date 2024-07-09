@@ -4,7 +4,7 @@ Welcome to my Data Science portfolio repository! This repository showcases vario
 
 Projects Included
 
-1. Project 1: SPACEX Falcon 9 Predictions
+1. Project 1: SPACEX Falcon 9 Predictions (Graduation Project)
    - Description: Predicting whether the first stage of the Falcon 9 rocket will land successfully. In this project I performed Exploratory Data Analysis where I collected data on the Falcon 9 first-stage landings. I use a RESTful API and web scraping and converted the data into a dataframe and then performed some data wrangling. I built a dashboard to analyze launch records interactively with Plotly Dash and built an interactive map to analyze the launch site proximity with Folium. Moving on to the final stage of Predictive Analysis, in which I used machine learning to determine if the first stage of Falcon 9 will land successfully. I splited the data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data. 
    - Technologies: Python, pandas, scikit-learn, matplotlib, numpy, seaborn, Folium, Plotly, HTML, Webscraping, REST API, Exploratory Data Analysis, Interactive Visual Analytics and Dashboard, Machine Learning, Predictive analysis, dash, SQL, Databases.
    - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
@@ -30,17 +30,41 @@ Projects Included
    - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Austarlia%20Wildfire/Historical_Wildfires.csv)
 5. Project 5: Automobile Prices
    - Description: Descriptive analytics of automobiles prices and what variables has the most effect on the price.
-   - Technologies: Python, pandas, matplotlib, seaborn, numpy.
+   - Technologies: Python, pandas, matplotlib, seaborn, numpy, scikit-learn, Machine Learning.
    - Notebooks: [Link to Notebook](https://github.com/abdoalsir/MyProjects/tree/main/Automobile%20Prices)
    - Dashboard Code: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Automobile%20Prices/Automobile_Sales.py)
    - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Automobile%20Prices/Clean%20df.csv)
 6. Project 6: Canada Immigration
    - Description: Analysing immigration patterns to Canada from the rest of the world.
-   - Technologies: Python, pandas, matplotlib, seaborn, numpy.
+   - Technologies: Python, pandas, matplotlib, seaborn, numpy, Folium, Webscraping, dash, Plotly.
    - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/Canada%20Immigration)
    - Data Source: [Here](https://www.un.org/development/desa/pd/data/international-migration-flows)
    - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Canada%20Immigration/Canada.csv)
-
+7. Project 7: San Fransicso Crime
+   - Description: Analysis of Crime patterns and locations across San Francisco.
+   - Technologies: Python, pandas, matplotlib, seaborn, numpy, Folium, seaborn.
+   - Notebook: [Link to Notebook](https://github.com/abdoalsir/MyProjects/blob/main/San%20Francisco%20Crime/San%20Francisco%20Crime.ipynb)
+   - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/San%20Francisco%20Crime/SFCD.csv)
+8. Project 8: Housing Price
+   - Description: Descriptive Analysis of house sale prices for King County between May 2014 and May 2015.
+   - Technologies: Python, pandas, matplotlib, numpy, Folium, seaborn, scikit-learn, Linear and Polynomial Regression, Machine Learning, Pipeline.
+   - Notebook: [Link to Notebook](https://github.com/abdoalsir/MyProjects/blob/main/Housing%20Price/Houses%20in%20King%20Count.ipynb)
+   - Data Source: [Here](https://www.kaggle.com/harlfoxem/housesalesprediction?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0101ENSkillsNetwork20235326-2022-01-01)
+9. Project 9: Insurance Cost Analysis
+    - Description: Analysing different attributes or features related to health insurance.
+   - Technologies: Python, pandas, matplotlib, numpy, seaborn, scikit-learn, EDA, Regression, Machine Learning, Classification.
+   - Notebook: [Link to Notebook](https://github.com/abdoalsir/MyProjects/blob/main/Insurance%20Cost%20Analysis/Insurance%20Cost.ipynb)
+   - Data Source: The dataset provided is derived from the book "Machine Learning with R" authored by Brett Lantz.
+   - Dataset: [Here](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+10. Project 10: Laptop Pricing
+    - Description: Predicting laptop price based on its features.
+   - Technologies: Python, pandas, matplotlib, numpy, seaborn, Machine Learning, scikit-learn, Regression.
+   - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/Laptops%20Pricing)
+   - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Laptops%20Pricing/laptop_pricing_dataset_base.csv) and [Here](https://github.com/abdoalsir/MyProjects/blob/main/Laptops%20Pricing/laptop_pricing.csv)
+11. Project 11: Stocks
+   - Description: Determining any suspicious stock activity.
+   - Technologies: Python, pandas, matplotlib, numpy, yfinance, webscraping, BeautifulSoap.
+   - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/Stocks)
    
 ## Installation and Usage
 

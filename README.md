@@ -7,8 +7,9 @@ Projects Included
 1. Project 1: SPACEX Falcon 9 Predictions
    - Description: Predicting whether the first stage of the Falcon 9 rocket will land successfully. In this project I performed Exploratory Data Analysis where I collected data on the Falcon 9 first-stage landings. I use a RESTful API and web scraping and converted the data into a dataframe and then performed some data wrangling. I built a dashboard to analyze launch records interactively with Plotly Dash and built an interactive map to analyze the launch site proximity with Folium. Moving on to the final stage of Predictive Analysis, in which I used machine learning to determine if the first stage of Falcon 9 will land successfully. I splited the data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data. 
    - Technologies: Python, pandas, scikit-learn, matplotlib, numpy, seaborn, Folium, Plotly, HTML, Webscraping, REST API, Exploratory Data Analysis, Interactive Visual Analytics and Dashboard, Machine Learning, Predictive analysis, dash, SQL, Databases.
-   - Notebooks: [Link to Notebooks]()
-   - Dataset: [Here](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/dataset_part_1.csv)
+   - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+   - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/SPACEX/SPACEX.csv)
+   - Data Source: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
    - Report: [Here](https://drive.google.com/file/d/1uxux7MKR7uKKusLMUIMYMNXmaMpbI-YA/view?usp=drive_link)
 3.  Project 2: Predicting of Diabetes Patients
    - Description: Predicting whether the patient has diabetes or not.
@@ -21,8 +22,24 @@ Projects Included
    - Notebook: [Link to Notebook](https://github.com/abdoalsir/MyProjects/blob/main/CardioFitness.ipynb)
    - Dashboard Code: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Dashboard.py)
    - Dataset: [Here](https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness)
-
-
+4. Project 4: Australia Wildfire
+   - Description: descriptive analytics to create a customer profile for each CardioGood Fitness treadmill product line.
+   - Technologies: Python, pandas, matplotlib, seaborn, numpy.
+   - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/Austarlia%20Wildfire)
+   - Dashboard Code: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Austarlia%20Wildfire/AWF.py)
+   - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Austarlia%20Wildfire/Historical_Wildfires.csv)
+5. Project 5: Automobile Prices
+   - Description: Descriptive analytics of automobiles prices and what variables has the most effect on the price.
+   - Technologies: Python, pandas, matplotlib, seaborn, numpy.
+   - Notebooks: [Link to Notebook](https://github.com/abdoalsir/MyProjects/tree/main/Automobile%20Prices)
+   - Dashboard Code: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Automobile%20Prices/Automobile_Sales.py)
+   - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Automobile%20Prices/Clean%20df.csv)
+6. Project 6: Canada Immigration
+   - Description: Analysing immigration patterns to Canada from the rest of the world.
+   - Technologies: Python, pandas, matplotlib, seaborn, numpy.
+   - Notebooks: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/Canada%20Immigration)
+   - Data Source: [Here](https://www.un.org/development/desa/pd/data/international-migration-flows)
+   - Dataset: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Canada%20Immigration/Canada.csv)
 
    
 ## Installation and Usage

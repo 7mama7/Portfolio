@@ -51,6 +51,7 @@ This project analyzes data from the 2005 Australia wildfires and builds a compre
 3. Insights Generation: Statistical measures, including standard deviation and variance of radiative power, are computed to evaluate the reliability and variability of the data.
 4. Data Quality Assessment: The dataset's replaced data indicator is used to ensure higher-quality insights are derived when updated information becomes available.
 The project leverages Python and libraries like pandas, matplotlib, seaborn, and dashboard tools to analyze and visualize the data. This analysis aims to support decision-making in disaster management and wildfire prevention strategies.
+
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/Austarlia%20Wildfire)
 
 **Dashboard Code**: [Here](https://github.com/abdoalsir/MyProjects/blob/main/Austarlia%20Wildfire/AWF.py)

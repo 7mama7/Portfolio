@@ -147,7 +147,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, matplotlib, seaborn, numpy, Regression, Cross-Validation, Hyperparameter Tuning.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Housing%20Price/house_price_regression.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -158,7 +158,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, matplotlib, seaborn, numpy, Classification, Cross-Validation, Hyperparameter Tuning.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Customer%20Segmentation/Telco_Customer_Churn_Analysis.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -169,7 +169,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, NLTK, TF-IDF, Naive Bayes, SVM.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Sentiment%20Analysis/sentiment_analysis.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -180,7 +180,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, numpy, TensorFlow, Keras, LSTM, Time Series Analysis.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Stocks/Stock_Price_Prediction.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -191,7 +191,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, K-Means, PCA, Seaborn.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Customer%20Segmentation/kmeans_clustering.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -202,7 +202,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, Collaborative Filtering, RMSE.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Recommender/movie_recommender.py)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -213,7 +213,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, statsmodels, TensorFlow, Keras, ARIMA, LSTM.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Forcasting/sales_forcasting.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -224,7 +224,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, TensorFlow, Keras, CNN, Image Processing.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Image%20Classification/image_classification_cnn.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -235,7 +235,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, Random Forest, Logistic Regression.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Fraud%20Detection/fraud_detection_classification.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -246,7 +246,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, Regression, Feature Engineering.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Customer%20Life%20Value/predicting_clv.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -257,7 +257,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, Isolation Forest, One-Class SVM.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Anamoly%20Detection/anamoly_detection.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -268,7 +268,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, Random Forest, Classification.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Employee%20Attrition/predicting_employee_attrition.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -279,7 +279,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, NLTK, TF-IDF, Naive Bayes, Confusion Matrix.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Text%20Processing/nlp_for_text_processing.ipynb)
 
 **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -290,7 +290,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, TensorFlow, Keras, LSTM, Time Series Analysis.
 
-- **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+- **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Forcasting/time_series_forcasting_with_lstm.ipynb)
 
 - **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 
@@ -301,7 +301,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, numpy, Data Cleaning, Feature Engineering.
 
-- **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+- **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Data%20Cleaning%20and%20Preprocessing/data_cleaning_and_preprocessing.ipynb)
 
 - **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
 

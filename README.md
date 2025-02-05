@@ -136,9 +136,9 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
      
 **Technologies**: Python, pandas, matplotlib, numpy, yfinance, webscraping, BeautifulSoup.
      
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/tree/main/SPACEX)
+**Notebooks**: [Notebook 1](https://github.com/abdoalsir/MyProjects/blob/main/Stocks/Stocks%20(1).ipynb) , [Notebook 2](https://github.com/abdoalsir/MyProjects/blob/main/Stocks/Stocks%20(2).ipynb), [Notebook 3](https://github.com/abdoalsir/MyProjects/blob/main/Stocks/Stocks%20(3).ipynb)
      
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset)
 
 ---
 
@@ -147,9 +147,9 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Technologies:** Python, pandas, scikit-learn, matplotlib, seaborn, numpy, Regression, Cross-Validation, Hyperparameter Tuning.
 
-**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Housing%20Price/house_price_regression.ipynb)
+**Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Housing%20Price/house_price_regression.ipynb) and [Here](https://github.com/abdoalsir/MyProjects/blob/main/Housing%20Price/boston-housing.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)
 
 ---
 
@@ -160,7 +160,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Customer%20Segmentation/Telco_Customer_Churn_Analysis.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
 
@@ -171,7 +171,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Sentiment%20Analysis/sentiment_analysis.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ---
 
@@ -182,7 +182,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Stocks/Stock_Price_Prediction.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/iveeaten3223times/massive-yahoo-finance-dataset)
 
 ---
 
@@ -193,7 +193,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Customer%20Segmentation/kmeans_clustering.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ---
 
@@ -204,7 +204,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Recommender/movie_recommender.py)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset) or [Here](https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset)
 
 ---
 
@@ -215,7 +215,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Forcasting/sales_forcasting.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ---
 
@@ -226,7 +226,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Image%20Classification/image_classification_cnn.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/pankrzysiu/cifar10-python)
 
 ---
 
@@ -237,7 +237,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Fraud%20Detection/fraud_detection_classification.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/mishra5001/credit-card)
 
 ---
 
@@ -248,7 +248,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Customer%20Life%20Value/predicting_clv.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/dheerajkumar97/clv-train)
 
 ---
 
@@ -259,7 +259,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Anamoly%20Detection/anamoly_detection.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/mishra5001/credit-card)
 
 ---
 
@@ -270,7 +270,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Employee%20Attrition/predicting_employee_attrition.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ---
 
@@ -281,7 +281,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Text%20Processing/nlp_for_text_processing.ipynb)
 
-**Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+**Data Source**: [Here](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 ---
 
@@ -292,7 +292,7 @@ The project leverages Python and libraries like pandas, matplotlib, seaborn, and
 
 - **Notebooks**: [Link to Notebooks](https://github.com/abdoalsir/MyProjects/blob/main/Forcasting/time_series_forcasting_with_lstm.ipynb)
 
-- **Data Source**: [Here](https://en.wikipedia.org/w/index.php?title=List_of_Falcon_9_and_Falcon_Heavy_launches&oldid=1027686922)
+- **Data Source**: [Here](https://www.kaggle.com/datasets/pratyushakar/rossmann-store-sales)
 
 ---
 
@@ -315,6 +315,7 @@ To run these projects locally, you need to have Python installed. Clone the repo
 ```bash
 git clone https://github.com/your-username/data-science-portfolio.git
 cd data-science-portfolio
+pip install -r requirements.txt
 ```
 
 ### Usage
